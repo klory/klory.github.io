@@ -5,8 +5,8 @@ name: Fangda Han
 title: Fangda's title
 email: fh199 [at] cs.rutgers.edu
 
-url: klory.github.io # the base hostname & protocol for your site
-# baseurl: # the subpath of your site, e.g. /blog/
+url: # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/
 last_updated: 2019-05-03 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
