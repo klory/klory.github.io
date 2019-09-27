@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Fangda Han
-title: Fangda's title
+title: Fangda's homepage
 email: fh199 [at] cs.rutgers.edu
 
 url: # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: 2019-05-03 # leave blank if you don't want to display last updated
+last_updated: 2019-09-27 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -28,7 +28,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: fangda's personal website
+blog_name: fangda's blog
 # blog_description: a simple whitespace theme for academics
 
 # Pagination
