@@ -88,7 +88,7 @@ scholar:
 
   last_name: Han
 
-  style: apa
+  style: https://raw.githubusercontent.com/citation-style-language/styles/master/ieee-with-url.csl
   locale: en
 
   sort_by: year
